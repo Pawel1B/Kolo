@@ -1,0 +1,5 @@
+Test to moje podejście obiektowe do tego.
+Jako że pierwsze podejście do c++, niewielie wychodziło. Będzie do dopracowania.
+Miał być interfejs z zmiennym rozmiarem planszy itd. 
+Jako że nie jestem doświadczony w c++ wyszły problemy z obiektami i relacjami ... Poprawi się później.
+Tic tac toe działa ale nie ma tych opcji których chciałem zawrzeć najpierw. Dalej nie wiem co tam było źle, ale ten działa.
